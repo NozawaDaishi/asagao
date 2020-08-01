@@ -4,7 +4,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '>=2.4.4'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.2.4', '>= 5.2.4.2'
+gem 'rails', '~> 6.0'
 # Use mysql2 as the database for Active Record
 gem 'mysql2'
 # Use Puma as the app server
@@ -33,13 +33,12 @@ gem 'mini_magick', '~> 4.8'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'email_validator', '~> 2.0', '>= 2.0.1'
-gem 'rails-i18n', '~> 5.1'
+gem 'rails-i18n', '~> 6.0.0'
 gem 'kaminari'
 gem 'kaminari-i18n'
 gem 'jquery-rails'
 gem 'acts_as_list'
 gem 'google-cloud-storage', '~> 1.8', require: false
-gem "nested_form"
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

@@ -1,0 +1,17 @@
+<%= image_tag "logo.png" , size: "75x50", alt: "evolite" %>
+
+<% if current_member %>
+    <ul class="account-menu">
+        <%= menu_link_to current_member.name + "さん", :account %>
+        <%= menu_link_to "ログアウト", :session,
+            method: :delete, date: { confirm: "ログアウトしますか？" } %>
+    </ul>
+<% end %>
+
+<%=
+    if controller.kind_of?(Admin::Base)
+        render "shared/admin_menubar"
+    else
+        render "shared/menubar"
+    end
+%>

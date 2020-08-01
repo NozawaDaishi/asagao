@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sapient-helix-284703",
+  "private_key_id": "3fad1b148bb869b4b3e48f83b90a5f18950b92ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSjt2x+WqpCWFw\npFpOnVZ7MoqrSyw0vuEZ0w7xInF1UPgltdxoqwpBCSHUUuYsv3RFZvM7sIDDfi/a\nCJETAeUY2wQCGN+wbdCqicq+cgcLMv6eTKNsV397asAwg5IfD+WBrHTqnHS5FBPn\n8eb13gyQLA26XuDtc9FBUGrpMUOhizI6DRna5w8RPsGqEBJC/YmpOO3z9hVSdmVx\nivakB6GLTt3sUmwbJYjzAehXHQLYe1ZEdexTXwYndE6+5uiddysP9vLKp+E0RxtS\n2QMGwMaPdiel7K5iDJtY61ZMTzbgIyTUQFAK1AKAOjpB+p3nCbBxxScnzO+UqECP\nmx35RNTfAgMBAAECggEAAn6n2Mp8PYl7apK/8SuDEU2df/8RhIR4dU5fYHMIhhvR\n/NxlQqY4JmId0P60dHZGQeZA3oWuWOKfXYV5dpCwrrU1nHK//76lWMfuK4h9VeAi\nTSzaSNfWjldK9KgybITLMtigwADfjyvSOo7Orj4VxwWGmh0yrA2RvqTdx2qKgxj2\nFc5IW2HVCuMYkF3HCjierWAfOlFGqJme9c8z7OkyyZqtofnN4SwKyMNPDMzCbmzn\ne8UlxFkzneTU7mWqbbTpLgMEpzsCbs90yQSAh+6qoU2zvTXD/VS6b+CZFdJZOll4\nwVCrGU/sL1L1O4eci1l7ozEMfLemXTZfnS6TyHkolQKBgQD/17b8H8Ppr6lp+d1B\nNLn702ioVMpmgWCApFL42bDKx9ctr5ncG0X67G7jPqPr5wgtk6JYkJWkBEG7pCkw\nhVB0xx9zn+TovsPAlfHM20hpY2gDeWyp4a+76tbPuPzK/nlIRuA63zFOOXtusT2q\nn6Ci7kOzZjeDnA9vZmkGVlWcIwKBgQDSsAVKLx+1i7zBh4jlKrqah5RmcgCqvI2M\nok5VHohkGTJgZxsvkxpq+oKY7Fur5kt2RiFe2Qz66i3aE3TAYOZL0mt4fcnXDjGP\nqTE1smktiuUU31oz8bPSNTK0Q2Uyc3ur1Ehfr4CVNGaV/ud0hzH/8Gethy8xVSjy\nRqOuHupCFQKBgQClO1Ysov9Ob2rEzOC+eiUbpL/U514Iscn3iykjGsT5UfOAyAZg\nhyS9F/HNxejsNDut48lX1ZkvYqhpXW5UreT2ZpvDeyLFxl56hNyzZ3PuzIqio8sw\nNFfgz5yIb3qkR5FgwpWSsA8R7EHxjXq8NXfzglorBPsZfrLhSYzO0PddbQKBgFrd\nsZpaEpnw53qsIr17nTlSag1485KveXkC8zfA0GAjgdeUAGSXVBh5bGPZ5HuR+k/L\nVU8b235IC3h3Va423HwtB07TKX8HzxY/iUq4ZKZQthY3cibfAogRi4m1W2rT5a2p\nA4HJJnKzQ99DLb3TJRxWKdDscc0cBmnfT26kRLI1AoGAd3y2xfBybAjsZoPCMWGy\nsB27W3deHbBiD+nsvqFX5MLRS1G/uHho2FpOYR/AhR3Ho8qP0U7XeNoo120a/aMZ\nnRjv7qtsjP+yKiaE5A1QC3guFlUbtmfCaG9OZJN5X4u+im5BNzPe4q+7WuqRvMGc\nGh0e7CAb+rsLmSyxIrR8bPA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rails-dev@sapient-helix-284703.iam.gserviceaccount.com",
+  "client_id": "103051406943905193232",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rails-dev%40sapient-helix-284703.iam.gserviceaccount.com"
+}
